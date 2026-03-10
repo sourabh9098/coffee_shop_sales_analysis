@@ -9,20 +9,21 @@ The dashboard provides insights into revenue, transactions, and store performanc
 
 ## 🔧 Tools Used
 
-• Microsoft Excel  
-• Pivot Tables  
-• Charts  
-• Data Cleaning  
+Microsoft Excel  
+Pivot Tables  
+Charts  
+Data Cleaning  
 
 ---
 
 ## 📈 Key Features
+![Key Features](key_features.jpeg)
 
-1. Tracked KPI metrics like Total Revenue and Transactions
-2. Monthly, Daily, and Hourly Sales Analysis
-3. Top Performing Products by Category
-4. Store Location Wise Sales Analysis
-5. Customer Buying Pattern Analysis
+1 Tracked KPI metrics like Total Revenue and Transactions
+2 Monthly, Daily, and Hourly Sales Analysis
+3 Top Performing Products by Category
+4 Store Location Wise Sales Analysis
+5 Customer Buying Pattern Analysis
 
 ---
 
@@ -34,16 +35,16 @@ The dashboard provides insights into revenue, transactions, and store performanc
 
 ## 🚀 Insights from the Analysis
 
-• Peak sales occur during morning hours  
-• Coffee beverages dominate product sales  
-• Weekends show higher customer transactions  
-• Certain store locations generate higher revenue  
+1 Peak sales occur during morning hours  
+2 Coffee beverages dominate product sales  
+3 Weekends show higher customer transactions  
+4 Certain store locations generate higher revenue  
 
 ---
 
 ## 🎥 Project Demo
 
-Watch the project demo here:
+Watch the project demo here 
 
 [Project Video](project_demo.mp4)
 
