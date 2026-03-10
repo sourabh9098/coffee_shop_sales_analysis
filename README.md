@@ -20,9 +20,13 @@ Data Cleaning
 ![Key Features](key_features.jpeg)
 
 1 Tracked KPI metrics like Total Revenue and Transactions
+
 2 Monthly, Daily, and Hourly Sales Analysis
+
 3 Top Performing Products by Category
+
 4 Store Location Wise Sales Analysis
+
 5 Customer Buying Pattern Analysis
 
 ---
